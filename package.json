@@ -1,0 +1,16 @@
+{
+  "name": "hakon-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hybrids": "^2.0.2",
+    "src": "^1.1.2"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
